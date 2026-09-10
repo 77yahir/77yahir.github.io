@@ -1,0 +1,32 @@
+body {
+  color: #222;
+  background-color: #f5f5f5;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+h1 {
+  color: #1e3a8a;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+p {
+  font-style: normal;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.page-title {
+  text-transform: capitalize;
+}
