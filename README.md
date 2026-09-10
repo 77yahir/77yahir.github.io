@@ -1,4 +1,7 @@
-# Yahir's Personal Website
+# Yahir Flores' Personal Website
 
-This is a personal website built using Hack4Impact Starter Pack!
-<Bring the fun.>
+This is my personal website built using the Hack4Impact Starter Pack!
+
+It includes information about me, my projects, resume, and a way to contact me
+
+[Visit it Here!](https://77yahir.github.io)
